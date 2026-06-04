@@ -7,7 +7,7 @@ This is a 9-slide investor presentation designed for a fictional esports nutriti
 
 👉 **[CLICK HERE TO VIEW THE GAMERFUEL PITCH DECK PDF](./The-unfair-advantage-in-every-session.pdf)** 
 
-*(Note: If your uploaded file has a different name, replace "GamerFuel.pdf" with your exact file name!)*
+
 
 ### 🛠️ My Digital Stack
 * **Content Generation:** Claude 3.5 Sonnet
